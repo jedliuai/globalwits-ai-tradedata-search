@@ -1,0 +1,6 @@
+interface:
+  display_name: "环球慧思贸易数据AI智能查询"
+  short_description: "使用 Edge 检索环球慧思数据，严格筛选并输出可复核价格表"
+  default_prompt: "Use $globalwits-ai-tradedata-search to query Globalwits trade data, strictly filter uncertain records, calculate converted prices, and deliver an auditable Excel workbook."
+policy:
+  allow_implicit_invocation: true
