@@ -1,3 +1,5 @@
+> **Chatgpt代充：[aishopvip.com](https://aishopvip.com)**
+
 <div align="center">
 
 <h1>环球慧思贸易数据 AI 智能查询</h1>
